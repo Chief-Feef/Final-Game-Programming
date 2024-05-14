@@ -26,4 +26,6 @@ Items (Health, Paper Airplane weapon)
 UI (Health Bar, Level Counter, Game over screen with options)
 Enemies (Flying Bat, Patroling Gunman, Patroling Rat)
 Randomly Generated Levels
+Soundtrack that plays in Background
+Background Image for immersion
 Built Game
